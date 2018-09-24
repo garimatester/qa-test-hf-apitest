@@ -1,0 +1,51 @@
+{
+"param" : [{
+      "key":"basePath",
+      "value":"http://services.groupkt.com/country/get"
+       },
+       
+       {
+      "key":"resPath",
+      "value":"all"
+       },
+       
+       {
+      "key":"Accept",
+      "value":"application/json"
+       },
+       
+        {
+      "key":"responseCode",
+      "value":"200"
+       } ],
+       
+       
+  "searchWords" : [{
+      "alpha2_code":"US"
+       },
+       
+       {
+      "alpha2_code":"DE"
+     
+      },
+       
+       {
+      "alpha2_code":"GB"
+     
+      
+       }]
+       
+       
+     
+       
+       
+       
+       
+       
+       
+       
+      
+      
+      
+  }
+	

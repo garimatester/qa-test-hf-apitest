@@ -1,0 +1,65 @@
+{
+"param" : [{
+      "key":"basePath",
+      "value":"http://services.groupkt.com/country/get"
+       },
+       
+       {
+      "key":"resPath",
+      "value":"iso2code/${COUNTRY_ISO2CODE}"
+       },
+       
+       {
+      "key":"COUNTRY_ISO2CODE",
+      "value":"US"
+       },
+       
+       {
+      "key":"Accept",
+      "value":"application/json"
+       },
+       
+        {
+      "key":"responseCode",
+      "value":"200"
+       } ],
+       
+   "jsonPath" : [    
+         {
+      "key":"$.name",
+      "value":"united"
+       } ,
+       
+         {
+      "key":"$.alpha2_code",
+      "value":"US"
+       } ,
+         {
+      "key":"$.alpha3_code",
+      "value":"USA"
+       } ]
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+ 
+       
+       
+       
+       
+       
+       
+      
+      
+      
+  }
+	

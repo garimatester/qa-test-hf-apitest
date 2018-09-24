@@ -1,0 +1,46 @@
+{
+"param" : [{
+      "key":"basePath",
+      "value":"http://services.groupkt.com/country/get"
+       },
+       
+       {
+      "key":"resPath",
+      "value":"iso2code/${COUNTRY_ISO2CODE}"
+       },
+       
+       {
+      "key":"COUNTRY_ISO2CODE",
+      "value":"us"
+       },
+       
+       {
+      "key":"Accept",
+      "value":"application/json"
+       },
+       
+        {
+      "key":"responseCode",
+      "value":"200"
+       } ,
+       
+       
+        {
+      "key":"message",
+      "value":"No matching country found for requested code [us]."
+       } ]
+       
+       
+  
+       
+       
+       
+       
+       
+       
+       
+      
+      
+      
+  }
+	

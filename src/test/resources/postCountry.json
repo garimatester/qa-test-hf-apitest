@@ -1,0 +1,57 @@
+{
+"param" : [{
+      "key":"basePath",
+      "value":"country"
+       },
+       
+       {
+      "key":"resPath",
+      "value":""
+       },
+       
+       {
+      "key":"httpMethod",
+      "value":"POST"
+       },
+       {
+      "key":"serviceScheme",
+      "value":"http"
+       },
+       
+       {
+      "key":"serviceHost",
+      "value":"services.groupkt.com"
+       },
+       
+       {
+      "key":"Accept",
+      "value":"application/json"
+       },
+       
+        {
+      "key":"responseCode",
+      "value":"200"
+       } ],
+       
+       
+  "body" : {
+                "name": "Test Country",
+                "alpha2_code": "TC",
+                "alpha3_code": "TCY"
+              
+             }
+       
+       
+     
+       
+       
+       
+       
+       
+       
+       
+      
+      
+      
+  }
+	
